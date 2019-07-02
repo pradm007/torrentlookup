@@ -1,0 +1,16 @@
+{
+  "name": "ownimplementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "peerLookup.js",
+  "dependencies": {
+    "bittorrent-dht": "^9.0.0",
+    "magnet-uri": "^5.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
